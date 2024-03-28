@@ -4,4 +4,8 @@ public class Ejercicio {
         return numero % 2 == 0;
     }
 
+    public static Boolean esImpar(int numero) {
+        return numero % 2 != 0;
+    }
+
 }
