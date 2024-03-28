@@ -8,4 +8,8 @@ public class Ejercicio {
         return numero % 2 != 0;
     }
 
+    public static void mensaje(){
+        System.out.println("Hola Mundo");
+    }
+
 }
